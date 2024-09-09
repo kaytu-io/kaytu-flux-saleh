@@ -32,7 +32,7 @@ spec:
   values:
     kaytu:
       dex:
-        issuer: "http://demo4.kaytu.sh/dex"
+        issuer: "https://demo4.kaytu.sh/dex"
         connectorsFromSecret: "dex-connectors-secret"
         version-count: 0
       domain:
